@@ -1,0 +1,5 @@
+Thread 90609216 serviced 6 files.
+Thread 115787328 resolved 0 hostnames.
+Thread 99001920 resolved 0 hostnames.
+Thread 107394624 resolved 0 hostnames.
+./multi-lookup: total time is 0.136180 seconds
